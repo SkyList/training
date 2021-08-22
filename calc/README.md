@@ -1,5 +1,7 @@
 # Calculator #
-Ralculator with vanilla js, html and css(responsive).
+Calculator with vanilla js, html and css(responsive).
+
+![project preview](./calc.png)
 
 ## how run ##
-open `index.html` in your browser and enjoy!!
+open https://skylist.github.io/training/calc/ or `index.html` in your browser and enjoy!!
